@@ -1,6 +1,6 @@
 # inf0token
 
-[![Python 3.5](https://img.shields.io/badge/Python-3.5-blue.svg)](https://www.python.org/download/releases/3.0/)
+[![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg)](https://www.python.org/download/releases/3.0/)
 
 A python script dedicated to gather information based on a target's Discord token. Dependencies will install automatically if not installed. 
 
