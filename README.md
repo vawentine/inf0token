@@ -6,13 +6,13 @@ A python script dedicated to gather information based on a target's token. Depen
 
 ## Table of contents
 
-- [Usage](##usage)
-- [Installation](##installation)
-- [Updating](##updating)
+- [Usage](#usage)
+- [Installation](#installation)
+- [Updating](#updating)
 
 ## Usage
 
-[(Back to top)](##table-of-contents)
+[(Back to top)](#table-of-contents)
 
 Windows:
 ```
@@ -29,12 +29,14 @@ python3 inf0token.py <TOKEN>
 
 ## Installation
 
-[(Back to top)](##table-of-contents)
+[(Back to top)](#table-of-contents)
 
 1. Install Python 3 (preferably, version 3.6+)
 2. That's it lol
 
 ## Updating
+
+[(Back to top)](#table-of-contents)
 
 Windows:
 ```
