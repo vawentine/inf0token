@@ -31,7 +31,7 @@ python3 inf0token.py <TOKEN>
 
 [(Back to top)](#table-of-contents)
 
-1. Install Python 3 (preferably, version 3.6+)
+1. Install Python 3 (preferably, version 3.6+) including get-pip.py
 2. That's it lol
 
 ## Updating
