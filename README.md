@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-A python script dedicated to gather information based on a target's token. Dependencies will install automatically if not installed. 
+A python script dedicated to gather information based on a target's Discord token. Dependencies will install automatically if not installed. 
 
 ## Table of contents
 
