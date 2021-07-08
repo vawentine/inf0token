@@ -32,7 +32,8 @@ python3 inf0token.py <TOKEN>
 [(Back to top)](#table-of-contents)
 
 1. Install Python 3 (preferably, version 3.6+) including get-pip.py
-2. That's it lol
+2. After that, install all the requirements in requirements.txt
+3. Run the script
 
 ## Updating
 
